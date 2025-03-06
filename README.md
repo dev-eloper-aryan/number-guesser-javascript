@@ -1,5 +1,5 @@
 # number-guesser-javascript
 JavaScript while loop of else conditional practice
 
-Link to the deployed version 
+Check this link out:-
 https://friendly-gumption-0b5181.netlify.app/
